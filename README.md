@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a cat who loves coding.
 - 👀 I’m interested in improving my skills.
-- 🌱 I’m currently learning new coding languages.
+- 🌱 I’m currently learning new coding languages except java.
 
 <!---
 Gatto-Programmatore/Gatto-Programmatore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
